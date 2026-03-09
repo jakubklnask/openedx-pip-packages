@@ -1,0 +1,2 @@
+[lms.djangoapp]
+nask_azure_auth = nask_azure_auth.apps:NaskAzureAuthConfig

@@ -1,0 +1,10 @@
+pyproject.toml
+nask_azure_auth/__init__.py
+nask_azure_auth/apps.py
+nask_azure_auth/auth_pipeline.py
+nask_azure_auth.egg-info/PKG-INFO
+nask_azure_auth.egg-info/SOURCES.txt
+nask_azure_auth.egg-info/dependency_links.txt
+nask_azure_auth.egg-info/entry_points.txt
+nask_azure_auth.egg-info/requires.txt
+nask_azure_auth.egg-info/top_level.txt

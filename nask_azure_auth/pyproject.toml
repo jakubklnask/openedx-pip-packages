@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nask-azure-auth"
+version = "0.1.0"
+dependencies = [
+    "social-auth-core",
+]
+
+[project.entry-points."lms.djangoapp"]
+nask_azure_auth = "nask_azure_auth.apps:NaskAzureAuthConfig"
