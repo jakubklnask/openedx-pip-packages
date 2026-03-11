@@ -54,6 +54,6 @@ class NaskAzureAuthConfig(AppConfig):
                 settings.SOCIAL_AUTH_PIPELINE = tuple(pipeline)
                 
                 # Logowanie widoczne w tutor dev logs
-                sys.stderr.write("!!! [NASK-AUTH] Pipeline zaktualizowany pomyslnie w ready() !!!\\n")
+                sys.stderr.write("!!! [NASK-AUTH] Pipeline zaktualizowany pomyslnie w ready() !!!")
             except Exception as e:
-                sys.stderr.write(f"!!! [NASK-AUTH-ERROR] Blad w ready(): {e} !!!\\n")
+                sys.stderr.write(f"!!! [NASK-AUTH-ERROR] Blad w ready(): {e} !!!")
