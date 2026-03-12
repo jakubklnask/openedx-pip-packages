@@ -6,7 +6,7 @@ log = logging.getLogger(__name__)
 
 class NaskFiltersConfig(AppConfig):
     name = "nask_filters"
-    verbose_name = "Nask Filters"
+    verbose_name = "Nask Specific Filters"
 
     def ready(self):
         try:

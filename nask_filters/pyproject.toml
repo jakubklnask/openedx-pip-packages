@@ -4,8 +4,8 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my-custom-filters"
-version = "0.1.0"
+name = "nask-filters"
+version = "0.6.0"
 dependencies = [
     "openedx-filters",
 ]
