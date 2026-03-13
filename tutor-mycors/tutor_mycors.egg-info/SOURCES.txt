@@ -1,0 +1,7 @@
+setup.py
+mycors/__init__.py
+tutor_mycors.egg-info/PKG-INFO
+tutor_mycors.egg-info/SOURCES.txt
+tutor_mycors.egg-info/dependency_links.txt
+tutor_mycors.egg-info/entry_points.txt
+tutor_mycors.egg-info/top_level.txt

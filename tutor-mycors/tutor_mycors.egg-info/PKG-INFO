@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: tutor-mycors
+Version: 0.2.0
+Summary: Tutor plugin to add multiple CORS/CSRF origins for edu.technologie.sp.nask.pl, apps.edu.technologie.sp.nask.pl and studio.edu.technologie.sp.nask.pl
+Dynamic: summary
